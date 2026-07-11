@@ -1,0 +1,10 @@
+# Data directory (keep the structure, ignore the actual data files)
+data/**/*.csv
+data/**/*.parquet
+data/**/*.json
+
+# Python environments & cache
+__pycache__/
+*.pyc
+.venv/
+.env

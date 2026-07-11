@@ -1,0 +1,1 @@
+pip install numpy, matplotlib, seaborn, pandas, selenium, msedge.selenium_tools, tqdm, quandl, nasdaq-data-link, plotly, zipfile, scikit-learn, xgboost, statsmodels, keras, ipython, tensorflow, nbformat
