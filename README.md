@@ -137,4 +137,225 @@ Move the platform to the cloud.
 ## Phase 5 — Medallion Architecture
 
 ### Objective
-```
+
+Implement a modern Lakehouse architecture.
+
+### Topics
+
+- Bronze Layer
+- Silver Layer
+- Gold Layer
+- Data Quality
+- Data Transformation
+
+### Deliverables
+
+- Complete Medallion Architecture implementation
+
+---
+
+## Phase 6 — Dimensional Modeling & Star Schema
+
+### Objective
+
+Design analytics-ready datasets.
+
+### Topics
+
+- Facts
+- Dimensions
+- Star Schema
+- Snowflake Schema
+- Slowly Changing Dimensions
+- Grain
+- Surrogate Keys
+
+### Deliverables
+
+- Fact tables
+- Dimension tables
+- Analytics-ready data model
+
+---
+
+## Phase 7 — dbt
+
+### Objective
+
+Transform data using Analytics Engineering best practices.
+
+### Topics
+
+- Models
+- Sources
+- Tests
+- Documentation
+- Incremental Models
+- Macros
+
+### Deliverables
+
+- dbt project
+- Automated transformations
+- Data quality tests
+- Generated documentation
+
+---
+
+## Phase 8 — Snowflake
+
+### Objective
+
+Build a modern cloud data warehouse.
+
+### Topics
+
+- Warehouses
+- Databases
+- Schemas
+- Stages
+- Data Loading
+- SQL
+
+### Deliverables
+
+- Analytics warehouse
+- Reporting-ready datasets
+
+---
+
+## Phase 9 — Airflow
+
+### Objective
+
+Automate the complete data pipeline.
+
+### Topics
+
+- DAGs
+- Scheduling
+- Operators
+- Dependencies
+- Retries
+
+### Deliverables
+
+- Automated ETL pipeline
+
+---
+
+## Phase 10 — Docker
+
+### Objective
+
+Containerize the entire platform.
+
+### Topics
+
+- Docker
+- Dockerfile
+- Images
+- Containers
+- Docker Compose
+
+### Deliverables
+
+- Fully containerized application
+- One-command deployment
+
+---
+
+## Phase 11 — Streamlit
+
+### Objective
+
+Develop a production-style analytics dashboard.
+
+### Features
+
+- Historical Prices
+- Technical Indicators
+- Candlestick Charts
+- Volume Analysis
+- Price Prediction
+- Confidence Metrics
+- Interactive Visualizations
+
+### Deliverables
+
+- Interactive analytics dashboard
+
+---
+
+## Phase 12 — Production Hardening
+
+### Objective
+
+Prepare the platform for production-quality delivery.
+
+### Topics
+
+- GitHub Actions
+- CI/CD
+- Testing
+- Documentation
+- Performance Review
+- Code Cleanup
+
+### Deliverables
+
+- Production-ready repository
+- Automated workflows
+- Architecture documentation
+- Version 1.0 Release
+
+---
+
+# 🛠️ Technology Stack
+
+## Languages
+
+- Python
+- SQL
+
+## Data Engineering
+
+- Apache Spark (PySpark)
+- Delta Lake
+- Databricks
+- dbt
+- Apache Airflow
+
+## Cloud
+
+- AWS
+  - S3
+  - IAM
+  - Athena
+  - Glue
+
+## Data Warehousing
+
+- Snowflake
+- Medallion Architecture
+- Dimensional Modeling
+- Star Schema
+
+## Application
+
+- Streamlit
+
+## DevOps
+
+- Docker
+- GitHub Actions
+- Git
+- GitHub
+
+---
+
+# 🎯 Final Outcome
+
+Project Phoenix v2 transforms a traditional stock prediction project into a production-style data engineering platform featuring cloud storage, distributed processing, modern Lakehouse architecture, automated orchestration, cloud data warehousing, and an interactive analytics dashboard.
+
+More importantly, the journey is designed to build the practical skills, architectural thinking, and engineering mindset expected of a modern **Data Engineer 2 / Data Engineer 3**.
